@@ -1,0 +1,9 @@
+1) Out of the 15 schools the independent schools have greater Average scores than Government schools.
+
+2) Out of 39,170 students in the 15 schools only the overall passing rate is 72.808272%
+
+3)	Independent schools dominated the top 5 schools in overall passing rate and Government schools dominated the bottom 5.
+
+4) The percentage of passing maths is higher than the percentage of passing reading.
+
+5) Schools with higher spending averages, has lower overall passing rate."
